@@ -1,9 +1,15 @@
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/854563547278475274/953516918529200168/eu.png?width=473&height=473">
+  <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Leo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Leo-PHP" height="30" width="40" 
+img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img align="center" alt="Leo-Rstudio" height="30" width="40"
+img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />        
+  <img align="center" alt="Leo-Mysql" height="30" width="40" 
+img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="right" alt="Leo-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/854563547278475274/953516918529200168/eu.png?width=473&height=473">
 </div>
 
   ##

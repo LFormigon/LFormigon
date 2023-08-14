@@ -9,7 +9,7 @@ img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /
 img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />        
   <img align="center" alt="Leo-Mysql" height="30" width="40" 
 img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="right" alt="Leo-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/854563547278475274/953516918529200168/eu.png?width=473&height=473">
+  <img align="right" alt="Leo-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/854563547278475274/1140441532164489398/aae90674cc781b165d484396b8f869fa.gif">
 </div>
 
   ##

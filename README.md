@@ -2,6 +2,12 @@
 
 **`Desenvolvedor FullStack / Analista de Dados`**
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
 Me chamo Leonardo, Tenho 21 anos, Sou formado em Análise e Desenvolvimento de Sistemas pela UNIMAR e atualmente cursando uma pós-graduação em Data Analytics pela FIAP. Atuo como Consultor de Sucesso do Cliente I na Tray (LWSA) , onde aplico meus conhecimentos em tecnologia para resolver problemas e melhorar a experiência dos clientes. Tenho grande interesse na área de dados e estou em busca de oportunidades que me permitam aplicar e expandir meus conhecimentos em Análise de Dados. Sou movido por aprendizado contínuo, inovação e paixão pela tecnologia.
 
 <p align="left">

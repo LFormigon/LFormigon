@@ -153,6 +153,8 @@ Me chamo Leonardo, Tenho 21 anos, Sou formado em Análise e Desenvolvimento de S
     src="https://github-readme-stats.vercel.app/api?username=LFormigon&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
+  
+
 <img 
       align="left" 
       alt="GitHub Stats" 
@@ -161,3 +163,10 @@ Me chamo Leonardo, Tenho 21 anos, Sou formado em Análise e Desenvolvimento de S
   />
 
 </p>
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LFormigon/LFormigon/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LFormigon/LFormigon/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LFormigon/LFormigon/output/github-contribution-grid-snake.svg">
+</picture>
